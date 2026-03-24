@@ -1,0 +1,6 @@
+complaint,category,priority,reason,flag
+Big pothole near school causing accidents,Pothole,Urgent,Big pothole near school causing accidents,
+Garbage not cleaned for 3 days,Waste,Standard,Garbage not cleaned for 3 days,
+Streetlight not working at night,Streetlight,Standard,Streetlight not working at night,
+Water flooding on road,Flooding,Standard,Water flooding on road,
+Strange issue not clear,Other,Standard,Strange issue not clear,NEEDS_REVIEW
